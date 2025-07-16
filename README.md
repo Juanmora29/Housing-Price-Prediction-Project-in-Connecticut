@@ -33,4 +33,4 @@ This dataset is of particular interest as it enables the analysis of the real es
 # Objectives
 
 * Conduct an in-depth exploratory data analysis (EDA) to examine the behavior and dynamics of the real estate sector in the State of Connecticut over the 2001–2022 period.
-* Develop a linear regression model to estimate property sale prices within Connecticut, using the variables Assessed Value, Sales Ratio, and Residential Type as predictors.
+* Develop a linear regression model to estimate property sale prices within Connecticut, using the variables Assessed Value, Sales Ratio, List Year and Residential Type as predictors.
