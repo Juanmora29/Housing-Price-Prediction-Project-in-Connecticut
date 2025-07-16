@@ -34,3 +34,31 @@ This dataset is of particular interest as it enables the analysis of the real es
 
 * Conduct an in-depth exploratory data analysis (EDA) to examine the behavior and dynamics of the real estate sector in the State of Connecticut over the 2001–2022 period.
 * Develop a linear regression model to estimate property sale prices within Connecticut, using the variables Assessed Value, Sales Ratio, List Year and Residential Type as predictors.
+
+# How to Run
+This project can be run in either Google Colab or a local Python environment. We strongly recommend using Google Colab for its straightforward setup.
+
+## In Google Colab
+Running the project in Google Colab is a straightforward process that does not require any local installations.
+
+* Open Google Colab: Navigate to https://colab.research.google.com/.
+
+* Upload the Notebook:
+
+Go to File -> Upload notebook.
+
+Select the Connecticut_Real_Estate_Project.ipynb file from your local machine.
+
+* Upload Data Files:
+
+In the Colab interface, click on the folder icon on the left sidebar to open the file explorer.
+
+Click on the "Upload to session storage" icon (a file with an upward arrow).
+
+Upload the Real_Estate_Sales_2001-2022_GL.csv and Connecticut_State_2892193487961723047.geojson files.
+
+* Execute the Notebook:
+
+Run the cells of the notebook sequentially by pressing Shift + Enter in each cell or by selecting Runtime -> Run all from the menu.
+
+The necessary libraries, such as h3, folium, and mapclassify, will be installed automatically by the commands in the notebook.
