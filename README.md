@@ -4,8 +4,6 @@ The selected dataset is "Real Estate Sales 2001–2022 GL".
 
 * Link to download the CSV file: https://catalog.data.gov/dataset/real-estate-sales-2001-2018
 
-* Link to download the Connecticut .geojson file (under "Download", then "GeoJSON"): https://deepmaps.ct.gov/datasets/CTDEEP::connecticut-state/explore?layer=1&location=41.484333%2C-72.649122%2C9.42
-
 The Office of Policy and Management maintains a comprehensive record of all real estate transactions with a sale price of $2,000 or more occurring between October 1st and September 30th of each fiscal year. For each sales record, the dataset includes the following attributes: municipality, property address, sale date, property type (residential, apartment, commercial, industrial, or vacant land), sale price, and assessed property value.
 
 The data is collected in accordance with the Connecticut General Statutes, Sections 10-261a and 10-261b:
