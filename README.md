@@ -53,8 +53,6 @@ In the Colab interface, click on the folder icon on the left sidebar to open the
 
 Click on the "Upload to session storage" icon (a file with an upward arrow).
 
-Upload the Real_Estate_Sales_2001-2022_GL.csv and Connecticut_State_2892193487961723047.geojson files.
-
 * Execute the Notebook:
 
 Run the cells of the notebook sequentially by pressing Shift + Enter in each cell or by selecting Runtime -> Run all from the menu.
